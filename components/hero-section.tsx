@@ -33,7 +33,7 @@ export function HeroSection() {
               field.
             </p> */}
 
-            <div className="flex flex-col sm:flex-row gap-4">
+            {/* <div className="flex flex-col sm:flex-row gap-4">
               <Button size="lg" className="bg-primary hover:bg-primary/90">
                 <Mail className="mr-2 h-5 w-5" />
                 Get In Touch
@@ -42,7 +42,7 @@ export function HeroSection() {
                 <Download className="mr-2 h-5 w-5" />
                 Download Resume
               </Button>
-            </div>
+            </div> */}
           </div>
 
           {/* Professional Photo */}

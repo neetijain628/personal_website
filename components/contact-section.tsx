@@ -39,7 +39,7 @@ export function ContactSection() {
           <p className="text-xl text-muted-foreground text-pretty">Let's connect and discuss opportunities</p>
         </div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
+        <div className="flex justify-center">
           {/* Contact Information */}
           <div className="space-y-8">
             <div>
@@ -78,7 +78,7 @@ export function ContactSection() {
             </div>
 
             {/* Social Links */}
-            <div>
+            {/* <div>
               <h3 className="text-2xl font-bold mb-6 text-primary">Connect With Me</h3>
               <div className="flex space-x-4">
                 <Button variant="outline" size="lg" className="flex-1 bg-transparent">
@@ -90,9 +90,9 @@ export function ContactSection() {
                   GitHub
                 </Button>
               </div>
-            </div>
+            </div> */}
 
-            {/* Professional CTA */}
+            {/* Professional CTA
             <Card>
               <CardContent className="p-6">
                 <h4 className="font-semibold mb-2 text-primary">Ready to Collaborate?</h4>
@@ -105,11 +105,11 @@ export function ContactSection() {
                   Schedule a Meeting
                 </Button>
               </CardContent>
-            </Card>
+            </Card> */}
           </div>
 
           {/* Contact Form */}
-          <Card>
+          {/* <Card>
             <CardHeader>
               <CardTitle className="text-primary">Send Me a Message</CardTitle>
             </CardHeader>
@@ -180,7 +180,7 @@ export function ContactSection() {
                 </Button>
               </form>
             </CardContent>
-          </Card>
+          </Card> */}
         </div>
       </div>
     </section>
