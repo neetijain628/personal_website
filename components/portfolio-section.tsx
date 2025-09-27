@@ -42,7 +42,8 @@ export function PortfolioSection() {
                 While individual perceptions of COVID-19 severity influence adherence to public health measures, little 
                 research has explored how personal financial factors—such as income, employment stability, and health 
                 insurance status—shape these beliefs. This project uses classification models on the survey data 
-                to determine whether financial status is predictive of individual attitudes toward COVID-19.
+                to determine whether financial status is predictive of individual attitudes toward COVID-19. My main role in the 
+                project was to perform some data pre-processing and the MCA portion.
               </p>
 
               <div className="space-y-2">
@@ -78,7 +79,8 @@ export function PortfolioSection() {
                 This mobile application, coded in Android Studio, allows users to effectively manage 
                 all aspects of their food intake. They are able to create grocery lists, track what's 
                 in their pantries, track nurtient/caloric intake, and even determine how certain food
-                choices will correlate to their goals.
+                choices will correlate to their goals. My role in the project was primarily to serve as a 
+                UI/UX engineer.
               </p>
 
               <div className="space-y-2">
